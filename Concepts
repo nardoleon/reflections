@@ -1,0 +1,52 @@
+Concepts:
+
+- Variables, arrays, objects
+This are expressions.
+
+- Functions
+Is a block of code created for run some tasks.
+
+- Iteration loops (for and while)
+The for loop can execute a block of code a number of times. The while loop can execute a block of code as long as a specified condition is true.
+
+- Anonymous callback functions
+A callback function, also known as a higher-order function, is a function that is passed to another function as a parameter, and the callback function is called (or executed) inside the outer function. 
+
+- Promises
+A promise represents the eventual result of an asynchronous operation. It is a placeholder into which the successful result value or reason for failure will materialize.
+
+
+
+- Fie system module
+Node.js includes file system module to access physical file system. The file system module is responsible for all the asynchronous or synchronous file I/O operations.
+
+- Express
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications.Allows to set up middlewares to respond to HTTP Requests. Defines a routing table which is used to perform different actions based on HTTP Method and URL. Allows to dynamically render HTML Pages based on passing arguments to templates.
+
+- Body parser
+Body-parser extract the entire body portion of an incoming request stream and exposes it on req.body as something easier to interface with . 
+
+- jQuery
+jQuery is a lightweight, "write less, do more", JavaScript library.
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+- Pug (discuss syntax and variables)
+Template language for javascript
+
+- AJAX
+AJAX is areally helpful, because you can:
+Update a web page without reloading the page
+Request data from a server - after the page has loaded
+Receive data from a server - after the page has loaded
+Send data to a server - in the background
+
+- Cookies
+Cookies are data, stored in small text files, on your computer.
+When a web server has sent a web page to a browser, the connection is shut down, and the server forgets everything about the user.
+Cookies were invented to solve the problem "how to remember information about the user":
+When a user visits a web page, his name can be stored in a cookie.
+Next time the user visits the page, the cookie "remembers" his name.
+
+- Sequelize ORM
+Sequelize is a promise-based ORM for Node.js and io.js. It supports the dialects PostgreSQL, MySQL, MariaDB, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
